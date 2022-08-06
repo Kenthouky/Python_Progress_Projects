@@ -1,0 +1,8 @@
+# This program converts radians to degrees
+# Python beginners challenge
+
+rad = float(input('Enter your value in radians: '))
+deg = rad/57.2958
+print(f'Your value in degrees is {deg}')
+
+# The end
