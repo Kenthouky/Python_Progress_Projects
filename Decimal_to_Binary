@@ -1,0 +1,10 @@
+# This program converts decimal numbers to binary numbers
+# @numbr: decimal number input by user
+# @numb: binary number calculated
+# Beginner's challenge accepted!
+
+numbr = int(input('Enter your decimal number here: '))
+numb = bin(numbr)
+print (numb)
+
+# The end.
